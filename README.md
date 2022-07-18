@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my Profile 👋
+![An illustration](https://octodex.github.com/images/yogitocat.png)
 
 <!--
 **lodhi-abhishek/lodhi-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
