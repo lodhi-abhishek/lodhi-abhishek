@@ -1,17 +1,25 @@
 ### Welcome to my Profile 👋
-![An illustration](https://octodex.github.com/images/yogitocat.png)
 
-<!--
-**lodhi-abhishek/lodhi-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h1 align="center">Abhishek Here
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<em>
+    A 3rd year undergraduate pursuing B.Tech (CSE), an aspiring <b>Software Developer</b>, <b>Cybersecurity Enthusiast, </b> <b> and a Programmer</b>
+   I am eager to challenge myself to do things I've never accomplished before and I stive to learn and improve on my skills every day.
+  </em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width=300px alt="Github cat" src="https://octodex.github.com/images/yogitocat.png">
+
+**_Little Info about me:_**
+
+- Currently learning **_MERN stack_** :smiley:
+- Practicing on my **_Competitive Programming skills..._**
+- Future fields to master **_Machine Learning_**
+
+## _Languages I know_
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
