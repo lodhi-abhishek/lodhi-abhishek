@@ -5,9 +5,9 @@
 
 <p align="center">
 <em>
-    A 3rd year undergraduate pursuing B.Tech (CSE), an aspiring <b>Software Developer</b>, <b>Cybersecurity Enthusiast, </b> <b> and a Programmer</b>
+    A 3rd year undergraduate pursuing B.Tech (CSE), an <b>Full Stack Developer</b>, <b>Machine Learning Enthusiast, </b> <b> and Linux User.</b>
    I am eager to challenge myself to do things I've never accomplished before and try to learn and improve on my skills every day.
-  </em>
+ </em>
 
 <img align="right" width=300px alt="Github cat" src="https://octodex.github.com/images/yogitocat.png">
 
