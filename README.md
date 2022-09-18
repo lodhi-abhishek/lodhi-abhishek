@@ -7,9 +7,11 @@ I am 3rd year undergraduate pursuing B.Tech (CSE), a **Full Stack Developer**.
 <img align="right" width=300px alt="Github cat" src="https://octodex.github.com/images/yogitocat.png">
 
 **About Myself :**
-- I am Linux and Open Source Enthusiast.
-- Currently Learning **MERN Stack** and **Machine Learning**
-- **Competitive Programming** and **Chess** are my hobbies.
+* 🎓   Interested in Linux and Open Source.
+* 🌱   Currently Learning **MERN Stack** and **Machine Learning**.
+* ⛵   Encouraging people for open source collaborations.
+* 📚   Reading Systems Performance 2nd Ed and BPF Performance Tools boo》.
+* ✍🏻 **Competitive Programming** and **Chess** are my hobbies.
 
 ### 💻 Languages and Tools
 
