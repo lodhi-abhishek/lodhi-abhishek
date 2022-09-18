@@ -1,26 +1,28 @@
-### Hello World! 👋
-<br>
-<h1 align="center">Abhishek Kr. Singh Here
-</h1>
+### Hello World!  👋
 
-<p align="center">
-<em>
-    A 3rd year undergraduate pursuing B.Tech (CSE), an <b>Full Stack Developer</b>, <b>Machine Learning Enthusiast, </b> <b> and Linux User.</b>
-   I am eager to challenge myself to do things I've never accomplished before and try to learn and improve on my skills every day.
- </em>
+I am 3rd year undergraduate pursuing B.Tech (CSE), a **Full Stack Developer**.
+
+**Machine Learning**, **Cloud** and **Linux** are my field of Interest.
 
 <img align="right" width=300px alt="Github cat" src="https://octodex.github.com/images/yogitocat.png">
 
-**_Little Info about me:_**
+**About Myself :**
+- I am Linux and Open Source Enthusiast.
+- Currently Learning **MERN Stack** and **Machine Learning**
+- **Competitive Programming** and **Chess** are my hobbies.
 
-- Love Linux and Open Source.
-- Currently learning **_MERN stack_** :smiley:
-- **_Competitive Programming..._** Interests me.
-- Starting Learning **_Machine Learning_**.
-    
-## _Languages I know_
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+### 💻 Languages and Tools
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="python3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />          
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  style="padding-right:10px;" />
+<img align="left" alt="cplusplus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="cplusplus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /> -->
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Debain" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Debain" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
+<!-- <img align="left" alt="apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" style="padding-right:10px;" /> -->
+<img align="left" alt="apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />          
