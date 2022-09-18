@@ -13,10 +13,11 @@
 
 **_Little Info about me:_**
 
+- Love Linux and Open Source.
 - Currently learning **_MERN stack_** :smiley:
-- Practicing on my **_Competitive Programming skills..._**
-- Future fields to master **_Machine Learning_**
-
+- **_Competitive Programming..._** Interests me.
+- Starting Learning **_Machine Learning_**.
+    
 ## _Languages I know_
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
