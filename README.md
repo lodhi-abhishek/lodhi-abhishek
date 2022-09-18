@@ -2,7 +2,7 @@
 
 I am 3rd year undergraduate pursuing B.Tech (CSE), a **Full Stack Developer**.
 
-**Machine Learning**, **Cloud** and **Linux** are my field of Interest.
+**Machine Learning**, **Cloud Native** and **Linux** are my field of Interest.
 
 <img align="right" width=300px alt="Github cat" src="https://octodex.github.com/images/yogitocat.png">
 
