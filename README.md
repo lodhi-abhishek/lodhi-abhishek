@@ -23,7 +23,7 @@ I am 3rd year undergraduate pursuing B.Tech (CSE), a **Full Stack Developer**.
 <img align="left" alt="cplusplus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /> -->
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Debain" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Debain" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
 <!-- <img align="left" alt="apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" style="padding-right:10px;" /> -->
