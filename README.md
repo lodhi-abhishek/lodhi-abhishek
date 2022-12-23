@@ -2,7 +2,7 @@
 
 I am undergraduate Student pursuing bachelor in Computer Science.
 
-**Machine Learning**, **DevOps** and **Linux** are my field of Interest.
+**Machine Learning**, **DevOps** and **Web** are my field of Interest.
 
 <img align="right" width=300px alt="Github cat" src="/assets/img/yogitocat.png">
 
