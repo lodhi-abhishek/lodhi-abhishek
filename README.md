@@ -10,7 +10,7 @@ I am undergraduate Student pursuing bachelor in Computer Science.
 * 🎓   Interested in Linux and Open Source.
 * 🌱   Currently Learning **MERN Stack** and **Devops**.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻 **Competitive Programming** and **Chess** are my hobbies.
+* ✍🏻   **Chess** is my hobbies.
 <!-- * 🌱   Currently Learning **MERN Stack** and **Machine Learning**. -->
 <!-- * 📚   Reading Systems Performance 2nd Ed and BPF Performance Tools book. -->
 
