@@ -4,7 +4,7 @@ I am 3rd year undergraduate pursuing B.Tech (CSE), a **Full Stack Developer**.
 
 **Machine Learning**, **Cloud Native** and **Linux** are my field of Interest.
 
-<img align="right" width=300px alt="Github cat" src="assets/img/anime-boy.png">
+<img align="right" width=300px alt="Github cat" src="/assets/img/yogitocat.png">
 
 **About Myself :**
 * 🎓   Interested in Linux and Open Source.
