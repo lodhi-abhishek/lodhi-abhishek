@@ -1,4 +1,4 @@
-### Hello World!  👋
+### Connect with ME!  👋
 
 I am undergraduate Student pursuing bachelor in Computer Science.
 
