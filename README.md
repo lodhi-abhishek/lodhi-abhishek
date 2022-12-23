@@ -1,8 +1,8 @@
 ### Hello World!  👋
 
-I am 3rd year undergraduate pursuing B.Tech (CSE), a **Full Stack Developer**.
+I am undergraduate Student pursuing bachelor in Computer Science.
 
-**Machine Learning**, **Cloud Native** and **Linux** are my field of Interest.
+**Machine Learning**, **DevOps** and **Linux** are my field of Interest.
 
 <img align="right" width=300px alt="Github cat" src="/assets/img/yogitocat.png">
 
