@@ -8,11 +8,11 @@ I am 3rd year undergraduate pursuing B.Tech (CSE), a **Full Stack Developer**.
 
 **About Myself :**
 * 🎓   Interested in Linux and Open Source.
-<!-- * 🌱   Currently Learning **MERN Stack** and **Machine Learning**. -->
 * 🌱   Currently Learning **MERN Stack** and **Devops**.
 * ⛵   Encouraging people for open source collaborations.
 * 📚   Reading Systems Performance 2nd Ed and BPF Performance Tools book.
 * ✍🏻 **Competitive Programming** and **Chess** are my hobbies.
+<!-- * 🌱   Currently Learning **MERN Stack** and **Machine Learning**. -->
 
 ### 💻 Languages and Tools
 
