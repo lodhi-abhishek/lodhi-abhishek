@@ -4,7 +4,7 @@ I am undergraduate Student pursuing bachelor in Computer Science.
 
 **Machine Learning**, **DevOps** and **Web** are my field of Interest.
 
-<img align="right" width=300px alt="Github cat" src="/assets/img/yogitocat.png">
+<img align="right" width=200px alt="Github cat" src="/assets/img/yogitocat.png">
 
 **About Myself :**
 * 🎓   Interested in Linux and Open Source.
